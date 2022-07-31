@@ -1,5 +1,5 @@
 # SKYSIS_Arduino_Challenge
-SKY LAB student branch SKYSIS Embedded System Team's 12 day of Arduino Challenge
+SKY LAB student branch SKYSIS Embedded System Team's 14 day of Arduino Challenge
 
 Start Day: 25.07.2022
 End Day: 07.08.2022
